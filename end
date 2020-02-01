@@ -1,9 +1,7 @@
-total 28K
--rw-r--r-- 1 devender devender    0 Feb  1 15:17 end
+total 20K
+-rw-r--r-- 1 devender devender    0 Feb  1 15:27 end
 -rw-r--r-- 1 devender devender   26 Feb  1 13:47 file_1.txt
--rw-r--r-- 1 devender devender   26 Feb  1 14:09 file_2.txt
 -rw-r--r-- 1 devender devender   19 Feb  1 13:37 name.txt
 -rw-r--r-- 1 devender devender   60 Feb  1 12:45 start
--rw-r--r-- 1 devender devender   50 Feb  1 15:16 touch
 drwxr-xr-x 2 devender devender 4.0K Feb  1 12:53 user1
 drwxr-xr-x 2 devender devender 4.0K Feb  1 12:47 user2
